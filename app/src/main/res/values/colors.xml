@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#1D3557</color>
+    <color name="color_primary_dark">#14243B</color>
+    <color name="color_secondary">#D17B49</color>
+    <color name="color_secondary_dark">#A65C2F</color>
+    <color name="color_background">#F6F1E8</color>
+    <color name="color_surface">#FFFDF8</color>
+    <color name="color_surface_alt">#EFE4D3</color>
+    <color name="color_card">#FFF9F0</color>
+    <color name="color_stroke">#D8C7B0</color>
+    <color name="color_text_primary">#231A13</color>
+    <color name="color_text_secondary">#705B4B</color>
+    <color name="color_text_hint">#9A8776</color>
+    <color name="color_success">#4D7C59</color>
+    <color name="color_warning">#D17B49</color>
+    <color name="color_error">#B54A3B</color>
+    <color name="color_info">#5D7EA6</color>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_overlay">#8AF6F1E8</color>
+    <color name="color_chip">#E8D7C2</color>
+    <color name="color_divider">#E2D4BF</color>
+    <color name="color_seat_available">#EFE4D3</color>
+    <color name="color_seat_selected">#1D3557</color>
+    <color name="color_seat_booked">#B9AA98</color>
+    <color name="color_gradient_start">#F8F3EB</color>
+    <color name="color_gradient_end">#EEDDC9</color>
+</resources>
